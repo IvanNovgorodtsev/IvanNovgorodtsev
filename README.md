@@ -1,15 +1,11 @@
-
-
-
-
 <h1 align="center"> Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
     <p align="center"> 
-    🔭 I’m currently working on <a href="https://www.kaggle.com/c/prostate-cancer-grade-assessment">PANDA-Challenge</a></br>
-    🌱 I’m currently learning Convolution Neural Networks and Machine Learning</br>
+    🔭 I’m currently working on <a href="https://www.kaggle.com/c/prostate-cancer-grade-assessment">PANDA-Challenge</a></br></br>
+    🌱 I’m currently learning Convolution Neural Networks and Machine Learning</br></br>
     📫 How to reach me:
      <a href="https://www.linkedin.com/in/ivannovgorodtsev/"><img alt="Python" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
      <a href="mailto:ivan.novgorodtsev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-     </br>
+     </br></br>
     ⚡ Fun fact: I'm climbing whenever I can in my free time!</br>
     </p>
 </p>
