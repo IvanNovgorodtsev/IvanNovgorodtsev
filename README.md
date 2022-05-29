@@ -6,13 +6,14 @@
      <a href="https://www.linkedin.com/in/ivannovgorodtsev/"><img alt="Python" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
      <a href="mailto:ivan.novgorodtsev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
      </br></br>
-    ⚡ Fun fact: I'm climbing whenever I can in my free time!</br>
+    ⚡ Fun fact: I'm climbing whenever I can in my free time! 🧗‍♂️</br>
     </p>
 </p>
 
 
 <h2 align="center">Languages and Tools:</h3>
 <p align="center">
+    <a href="https://www.typescriptlang.org/"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
     <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
     <a href="https://isocpp.org/"><img alt="Python" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
 </p>
@@ -25,7 +26,6 @@
 </p>
 <p align="center">
  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></a>
- <a href="https://cloud.google.com/gcp"><img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
  <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a> 
  <a href="https://www.djangoproject.com/"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a> 
 </p>
